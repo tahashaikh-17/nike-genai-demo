@@ -1,0 +1,9 @@
+id,name,category,price,image,description,tags
+101,Nike Pegasus 41,Running,129.99,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/24b2e0c8-peg41.jpg,"Neutral daily trainer with responsive cushioning","running,neutral,daily"
+102,Nike InfinityRN 4,Running,159.99,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/67bb-infrn.jpg,"Plush, supportive shoe for recovery miles","running,cushion,recovery"
+103,Nike Metcon 9,Training,129.99,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22ab-metcon9.jpg,"Stable base and grippy outsole for HIIT & strength","training,hiit,stability"
+104,Nike Vomero 17,Running,179.99,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/33cd-vom17.jpg,"Max-cushion comfort for long runs","running,max,comfort"
+105,Nike Juniper Trail 2,Trail,110.00,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/55ef-juntrail2.jpg,"Trail shoe with rugged traction for rocky terrain","trail,grip,rocky"
+106,Nike Blazer Mid '77,Lifestyle,105.00,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa11-blazer77.jpg,"Classic mid-cut sneaker with vintage styling","lifestyle,retro,leather"
+107,Nike Tech Fleece Joggers,Apparel,120.00,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bc22-techfleece.jpg,"Lightweight warmth with modern taper","apparel,joggers,tech-fleece"
+108,Nike Dri-FIT Tee,Apparel,35.00,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ef33-drifit.jpg,"Sweat-wicking tee for training or everyday wear","apparel,tee,dri-fit"
